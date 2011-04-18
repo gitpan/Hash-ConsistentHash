@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Hash-ConsistentHash
-version:            0.04
+version:            0.05
 abstract:           Constant hash algorithm
 author:
     - Luben Karavelov <<karavelov@spnet.net>>
